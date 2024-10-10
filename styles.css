@@ -1,0 +1,15 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+}
+.blue{
+    color:blue;
+    text-decoration: solid;
+}
+.green{
+    color:rgb(21, 213, 59);
+    text-decoration: solid;
+}
+#timeline{
+   color:rgb(10, 77, 172)
+}
